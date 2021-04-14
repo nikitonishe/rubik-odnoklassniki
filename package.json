@@ -1,6 +1,6 @@
 {
   "name": "rubik-odnoklassniki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "classes/Odnoklassniki.js",
   "repository": "git@github.com:nikitonishe/rubik-odnoklassniki.git",
   "author": "nikitandr <ns@indotech.ru>",
