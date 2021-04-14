@@ -1,4 +1,4 @@
-# rubik-facebook
+# rubik-odnoklassniki
 Odnoklassniki's Bot API kubik for the Rubik
 
 ## Install
